@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoEdit</string>
+    <string name="edit_new_image">Edit new Image</string>
+    <string name="saved_images">Saved Images</string>
+    <string name="let_s_create_something_neew">let\'s create something neew</string>
+    <string name="apply_filter">Apply Filter</string>
+</resources>
