@@ -19,14 +19,14 @@
         android:id="@+id/textfiltername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/_4sdp"
+        android:layout_marginTop="@dimen/_1sdp"
         android:ellipsize="end"
         android:fontFamily="@font/poppins_regular"
         android:includeFontPadding="false"
         android:maxLines="1"
         android:gravity="center"
         android:textColor="@color/prymarytext"
-        android:textSize="@dimen/_12ssp"
+        android:textSize="@dimen/_8ssp"
         tools:text="Filter 1"/>
 
 </LinearLayout>
